@@ -1,5 +1,5 @@
 #Project Title
-  - Exploring my Instagram Followers' Reading Preferences and Their Following 
+  - Analysing my Instagram Followers' Reading Preferences and Their Following 
 
 #Instalation 
   - Download the file from the RAW data link or access my rpubs link: http://rpubs.com/audrielle_staples/1196140
